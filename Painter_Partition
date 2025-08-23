@@ -1,0 +1,38 @@
+int count(vector<int>& boards, int mid){
+    int painter = 1;
+    int boardsSum = 0;
+    int maxPossible = mid;
+
+    for(int i=0; i<boards.size();i++){
+        if(boardsSum+boards[i] <= maxPossible){
+            boardsSum += boards[i];
+        }
+        else{
+            painter++;
+            boardsSum = boards[i];
+        }
+    }
+    return painter;
+}
+
+#include<bits/stdc++.h>
+
+
+int findLargestMinDistance(vector<int> &boards, int k)
+{
+    int low = *max_element(boards.begin(), boards.end());
+    int high = accumulate(boards.begin(), boards.end(), 0);
+
+    while(low <= high){
+        int mid = low + ((high-low)/2);
+
+        int timecount = count(boards, mid);
+        if(timecount > k){
+            low = mid + 1;
+        }
+        else{
+            high = mid - 1;
+        }
+    }
+    return low;
+}
