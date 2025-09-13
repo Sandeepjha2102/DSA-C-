@@ -9,17 +9,17 @@
 class Solution {
 public:
 
-    ListNode* colisonPoint(ListNode* smaller, ListNode* larger, int d){
-        while(d > 0 && larger != NULL){
-            larger = larger->next;
-            d--;
-        }
-        while(smaller != NULL && larger != NULL && smaller != larger){
-            smaller = smaller->next;
-            larger = larger->next;
-        }
-        return smaller;
-    }
+    // ListNode* colisonPoint(ListNode* smaller, ListNode* larger, int d){
+    //     while(d > 0 && larger != NULL){
+    //         larger = larger->next;
+    //         d--;
+    //     }
+    //     while(smaller != NULL && larger != NULL && smaller != larger){
+    //         smaller = smaller->next;
+    //         larger = larger->next;
+    //     }
+    //     return smaller;
+    // }
 
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         // unordered_map<ListNode*, int> mpp;
@@ -38,31 +38,50 @@ public:
         // }
         // return NULL;
 
-        if(headA == NULL || headB == NULL){
-            return NULL;
-        }
+
+        //BETTER APPROACH
+        // if(headA == NULL || headB == NULL){
+        //     return NULL;
+        // }
+
+        // ListNode* t1 = headA;
+        // int n1 = 0;
+
+        // ListNode* t2 = headB;
+        // int n2 = 0;
+
+        // while(t1 != NULL){
+        //     n1++;
+        //     t1 = t1->next;
+        // }
+        // while(t2 != NULL){
+        //     n2++;
+        //     t2 = t2->next;
+        // }
+
+        // if(n1<n2){
+        //     return colisonPoint(headA,headB,(n2-n1));
+        // }
+        // else{
+        //     return colisonPoint(headB,headA,(n1-n2));
+        // }
+        // return NULL;
+
+        if(headA == NULL || headB == NULL) return NULL;
 
         ListNode* t1 = headA;
-        int n1 = 0;
-
         ListNode* t2 = headB;
-        int n2 = 0;
 
-        while(t1 != NULL){
-            n1++;
+        while(t1 != t2){
             t1 = t1->next;
-        }
-        while(t2 != NULL){
-            n2++;
             t2 = t2->next;
-        }
 
-        if(n1<n2){
-            return colisonPoint(headA,headB,(n2-n1));
+            if(t1 == t2 ) return t1;
+
+            if(t1 == NULL) t1 = headB;
+            if(t2 == NULL) t2 = headA;
+            
         }
-        else{
-            return colisonPoint(headB,headA,(n1-n2));
-        }
-        return NULL;
+        return t2;
     }
 };
