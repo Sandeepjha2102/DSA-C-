@@ -38,11 +38,11 @@ public:
         }
 
         //iterate over map to check value of keys
-        for(auto it : mpp){
-            if(it.second != 0){
-                return false;
-            }
-        }
+        // for(auto it : mpp){
+        //     if(it.second != 0){
+        //         return false;
+        //     }
+        // }
         return true;
     }
 };
