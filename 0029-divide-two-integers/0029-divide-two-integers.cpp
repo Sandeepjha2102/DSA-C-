@@ -9,7 +9,7 @@ public:
         long n = abs((long)dividend);
         long d = abs((long)divisor);
 
-        divisor = abs((long)divisor); 
+        // divisor = abs((long)divisor); 
 
         long quotient = 0;
 
