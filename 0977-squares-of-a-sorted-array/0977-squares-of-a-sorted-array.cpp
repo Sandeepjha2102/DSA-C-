@@ -1,78 +1,28 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
+
         int size = nums.size();
 
-        //if all numbers are postive
-        if(nums[0] >= 0) {
-            for(int i=0; i<size; i++){
-                nums[i] = nums[i] * nums[i];
-            }
-        return nums;
-        }
+        vector<int> ans(size);
+        int i =0;
+        int j = size-1;
+        int idx = size-1;
 
-        //if all numbers are negative
-        if(nums[size-1] <=0){
-            for(int i=0; i<size; i++){
-                nums[i] = nums[i] * nums[i];
-            }
-                reverse(nums.begin(), nums.end());
-        return nums;
-        }
+        while(idx >= 0){
+            int leftsq = (nums[i] * nums[i]);
+            int rightsq = (nums[j] * nums[j]);
 
-        //if array includes both negative and postive
-        //store negative and postive seprately
-        vector<int> pos,neg;
-        for(int i=0; i<size; i++){
-            if(nums[i] >= 0){
-                pos.push_back(nums[i]);
-            }
-            else{
-                neg.push_back(nums[i]);
-            }
-        }
-
-        //square postive number;
-        for(int i=0; i<pos.size();i++){
-            pos[i] = pos[i] * pos[i];
-        }
-
-        //sqaure negative number;
-        reverse(neg.begin(),neg.end());
-        for(int i = 0; i<neg.size(); i++){
-            neg[i] = neg[i] * neg[i];
-        }
-
-        int i = 0;  // i -> positive
-        int j = 0;  // j -> negative
-        int id = 0;
-        vector<int> ans(pos.size() + neg.size());
-
-        while(i < pos.size() && j <neg.size()){
-            if(pos[i] <= neg[j]){
-                ans[id] = pos[i];
-                id++;
+            if(leftsq >= rightsq){
+                ans[idx] = leftsq;
                 i++;
             }
             else{
-                ans[id] = neg[j];
-                id++;
-                j++;
+                ans[idx] = rightsq;
+                j--;
             }
+            idx--;
         }
-        while(i < pos.size()){
-                ans[id] = pos[i];
-                id++;
-                i++;
-        }
-
-        while(j < neg.size()){
-                ans[id] = neg[j];
-                id++;
-                j++;
-        }
-
-
         return ans;
     }
 };
