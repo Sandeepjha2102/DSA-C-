@@ -1,21 +1,41 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> ans;
         sort(nums.begin(), nums.end());
-        int n = nums.size();
-        for(int i=0; i<n; i++){
-            if(i > 0 && nums[i] == nums[i-1])continue;
-        for(int j=i+1; j<n; j++){
-            if(j>i+1 && nums[j] == nums[j-1]) continue;
-        for(int k = j+1; k<n; k++){
-            if(k>j+1 && nums[k] == nums[k-1]) continue;
-                    if((nums[i] + nums[j] + nums[k] == 0)){
-                        ans.push_back({nums[i], nums[j], nums[k]});
-                    }
+
+        int size = nums.size();
+        int sum = 0;
+        vector<vector<int>> ans;
+        int i = 0;
+
+        for (i = 0; i < size - 2; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]){
+               continue;
+            }
+            int left = i + 1;
+            int right = size - 1;
+            int sum = -1 * nums[i];
+
+            while (left < right) {
+                int req_sum = nums[left] + nums[right];
+
+                if (sum == req_sum) {
+                    ans.push_back({nums[i], nums[left], nums[right]});
+                    while (left < right && nums[left] == nums[left + 1])
+                        left++;
+                    while (left < right && nums[right] == nums[right - 1])
+                        right--;
+                    left++;
+                    right--;
+                }
+
+                else if (req_sum < sum) {
+                    left++;
+                } else {
+                    right--;
                 }
             }
         }
-        return ans;;
+        return ans;
     }
 };
