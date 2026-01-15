@@ -13,9 +13,9 @@ public:
             if(rem < 0){
                 rem += k;
             }
-            if(mpp.find(rem) != mpp.end()){
+
                 count += mpp[rem];
-            }
+
             mpp[rem]++;
         }
         return count;
