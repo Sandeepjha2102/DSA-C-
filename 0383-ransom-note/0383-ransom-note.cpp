@@ -8,6 +8,9 @@ public:
         }
 
         for(int i =0; i < magazine.size(); i++){
+            if(note.size() == 0) {
+                return true;
+            }
             if(note.find(magazine[i]) != note.end()){
                 note[magazine[i]]--;
                 if(note[magazine[i]] == 0){
