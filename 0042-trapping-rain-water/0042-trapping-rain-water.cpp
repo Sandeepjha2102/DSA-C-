@@ -1,29 +1,37 @@
 class Solution {
 public:
-
-    vector<int> getrightMax(vector<int>& height, int& n){
-        vector<int> rightMax(n);
-
-        rightMax[n-1] = height[n-1];
-        for(int i = n-2; i >= 0; i--){
-            rightMax[i] = max(rightMax[i+1], height[i]);
-        }
-        return rightMax;
-    }
-    
-    int left;
-    int leftMax = -1;
     int trap(vector<int>& height) {
         int n = height.size();
-        vector<int> rightMax = getrightMax(height, n);
-        int sum = 0;
-        for(int i = 0; i < n; i++){
-            left = height[i];
-            leftMax = max(leftMax, left);
-            int h = min(leftMax, rightMax[i]) - height[i];
+        int leftMax = 0; 
+        int rightMax = 0; 
+        int totalWater = 0; 
+        int l = 0;
+        int r = n-1;
 
-            sum += h;
+
+        while(l <= r){
+
+            if(height[l] <= height[r]){
+                if(height[l] >= leftMax){
+                    leftMax = height[l];
+                }
+                else{
+                    totalWater += leftMax - height[l];
+                }
+                l++;
+            }
+
+            else{
+                if(height[r] >= rightMax){
+                    rightMax = height[r];
+                }
+                else{
+                    totalWater += rightMax - height[r];
+                }
+                r--;
+            }
+            
         }
-        return sum;
+        return totalWater;
     }
 };
