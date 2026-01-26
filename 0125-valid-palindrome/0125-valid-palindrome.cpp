@@ -1,32 +1,32 @@
 class Solution {
 public:
-
-    bool isAlphaNum(char ch){
-        if((ch>='0' && ch<='9') || (ch>='a' && ch<='z') || (ch>='A' && ch<= 'Z')){
-            return 1;
-        }
-        return 0;
-    }
-
     bool isPalindrome(string s) {
-        int low = 0;
-        int high = s.length()-1;
-
-        while(low < high){
-            if(!isAlphaNum(s[low])){
-                low++;
-                continue;
+        string updatedS;
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] >= 'a' && s[i] <= 'z'){
+                updatedS += s[i];
             }
-            if(!isAlphaNum(s[high])){
-                high--;
+            else if(s[i] >= 'A' && s[i] <= 'Z'){
+                    updatedS += tolower(s[i]);
+                }
+            else if(s[i] >= '0' && s[i] <= '9'){
+                    updatedS += s[i];
+                }    
+            else{
                 continue;
-            }
+            }}
+        
+        int i = 0;
+        int j = updatedS.size()-1;
 
-            if(tolower(s[low]) != tolower(s[high])){
+        while (i <= j){
+            if(updatedS[i] == updatedS[j]){
+                i++;
+                j--;
+            }
+            else{
                 return false;
             }
-            low++;
-            high--;
         }
         return true;
     }
