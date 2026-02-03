@@ -1,16 +1,14 @@
 class Solution {
 public:
-    int fib(int n) {
-        if(n <= 1){
-         return n;
-            }
 
-            int a= 0; int b = 1;
-        for(int i = 2; i <=n; i++){
-            int temp = b;
-            b = a+b;
-            a =temp;
-        }
-        return b;
+    int f(int n){
+        if(n <= 1) return n;
+        int last = f(n-1);
+        int slast = f(n-2);
+        return last+slast;
+    }
+
+    int fib(int n) {
+        return f(n);
     }
 };
