@@ -18,4 +18,12 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0060-permutation-sequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0060-permutation-sequence/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0060-permutation-sequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0060-permutation-sequence/) | Hard |
 <!---LeetCode Topics End-->
