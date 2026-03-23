@@ -8,6 +8,7 @@ Leetcode Problems
 | [0039-combination-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -15,6 +16,7 @@ Leetcode Problems
 | [0039-combination-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
