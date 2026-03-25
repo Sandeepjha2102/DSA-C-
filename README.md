@@ -11,6 +11,7 @@ Leetcode Problems
 | [0046-permutations](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +41,32 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
