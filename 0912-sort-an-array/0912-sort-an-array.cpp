@@ -6,8 +6,8 @@ public:
         int len1 = mid-s+1;
         int len2 = e-mid;
 
-        int *first = new int[len1];
-        int *second = new int[len2];
+        vector<int> first(len1);
+        vector<int> second(len2);
 
         //copy values in first
         int originalIndex = s;
@@ -38,8 +38,6 @@ public:
         while(index2 < len2){
             nums[originalIndex++] = second[index2++];
         }
-        delete []first;
-        delete []second;
     }
 
 
