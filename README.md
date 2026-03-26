@@ -12,6 +12,7 @@ Leetcode Problems
 | [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
+| [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +71,16 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 <!---LeetCode Topics End-->
