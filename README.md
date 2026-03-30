@@ -22,6 +22,7 @@ Leetcode Problems
 | [0046-permutations](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0113-path-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Leetcode Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -111,6 +113,7 @@ Leetcode Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -124,6 +127,7 @@ Leetcode Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
