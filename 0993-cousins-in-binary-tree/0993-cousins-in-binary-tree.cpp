@@ -11,42 +11,35 @@
  */
 class Solution {
 public:
-    
-    int findHeight(TreeNode* root, int& parent, int value, int height){
-        if(root == NULL) return -1;  
-
-        if(root->val == value) return height;
-
-        // check left subtree
-        int leftParent = root->val;
-        int left = findHeight(root->left, leftParent, value, height+1);
-        if(left != -1){              
-            parent = leftParent;
-            return left;
-        }
-
-        // check right subtree
-        int rightParent = root->val;
-        int right = findHeight(root->right, rightParent, value, height+1);
-        if(right != -1){            
-            parent = rightParent;
-            return right;
-        }
-
-        return -1;                 
-    }
-
-
     bool isCousins(TreeNode* root, int x, int y) {
-        if(root->val == x || root->val == y) return false;
+        queue<TreeNode*> q;
+        q.push(root);
 
-        int xparent = -1;
-        int xHeight = findHeight(root, xparent, x, 0);
+        while(!q.empty()){
+        int size = q.size();
+        bool foundX = false;
+        bool foundY = false;
 
-        int yparent = -1;
-        int yHeight = findHeight(root, yparent, y, 0);
+        for(int i = 0; i < size; i++){
+            TreeNode* node = q.front();
+            q.pop();
 
-        if(xparent != yparent && xHeight == yHeight) return true;
+            if(node->val == x) foundX = true;
+            if(node->val == y) foundY = true;
+
+            //same parent
+            if(node->left && node->right){
+                if(node->left->val == x && node->right->val == y ||
+                    node->left->val == y && node->right->val == x )
+                    return false;
+            }
+
+            if(node->left) q.push(node->left);
+            if(node->right) q.push(node->right);
+            }
+            if(foundX && foundY) return true;
+            if(foundX || foundY) return false;
+        }
         return false;
     }
 };
