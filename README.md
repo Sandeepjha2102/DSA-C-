@@ -39,6 +39,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Leetcode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
@@ -96,6 +98,7 @@ Leetcode Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0112-path-sum/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Simulation
@@ -123,6 +126,7 @@ Leetcode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -139,6 +143,7 @@ Leetcode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
