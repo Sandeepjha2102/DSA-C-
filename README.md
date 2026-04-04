@@ -87,6 +87,7 @@ Leetcode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -130,6 +131,7 @@ Leetcode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -149,6 +151,7 @@ Leetcode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
