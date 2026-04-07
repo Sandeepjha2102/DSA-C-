@@ -83,6 +83,7 @@ Leetcode Problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -113,6 +114,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Tree
@@ -127,6 +129,7 @@ Leetcode Problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -147,6 +150,7 @@ Leetcode Problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -159,4 +163,8 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
