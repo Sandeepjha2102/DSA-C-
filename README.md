@@ -91,6 +91,7 @@ Leetcode Problems
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -107,6 +108,7 @@ Leetcode Problems
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -141,6 +143,7 @@ Leetcode Problems
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -164,6 +167,7 @@ Leetcode Problems
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -176,4 +180,12 @@ Leetcode Problems
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
