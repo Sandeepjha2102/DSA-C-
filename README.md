@@ -188,4 +188,8 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
