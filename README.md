@@ -12,6 +12,7 @@ Leetcode Problems
 | [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Backtracking
@@ -226,4 +227,5 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->
