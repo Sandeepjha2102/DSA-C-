@@ -8,6 +8,7 @@ Leetcode Problems
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
@@ -193,6 +194,7 @@ Leetcode Problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Linked List
@@ -228,6 +230,7 @@ Leetcode Problems
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0860-lemonade-change/) | Easy |
