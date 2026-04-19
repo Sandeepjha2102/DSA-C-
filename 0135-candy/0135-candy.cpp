@@ -15,6 +15,9 @@ public:
                 left[i] = 1;
             }
         }
+        for(int i = 0; i < n; i++){
+            cout << left[i] << " ";
+        }
 
         //right
         int curr = 1;
@@ -27,6 +30,7 @@ public:
             }
             else{
                 curr = 1;
+                right = 1;
             }
             sum = sum + max(left[i], curr);
         }
