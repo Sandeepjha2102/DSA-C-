@@ -1,14 +1,15 @@
 class Solution {
 public:
-
-    int f(int n){
+    int f(int n, vector<int> &dp){
         if(n <= 1) return n;
-        int last = f(n-1);
-        int slast = f(n-2);
+        if(dp[n] != -1) return dp[n];
+        int last = f(n-1, dp);
+        int slast = f(n-2, dp);
         return last+slast;
     }
 
     int fib(int n) {
-        return f(n);
+        vector<int> dp(n+1, -1);
+        return f(n, dp);
     }
 };
