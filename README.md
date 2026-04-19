@@ -39,10 +39,12 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0060-permutation-sequence/) | Hard |
+| [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0060-permutation-sequence/) | Hard |
+| [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@ Leetcode Problems
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -247,4 +250,8 @@ Leetcode Problems
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0860-lemonade-change/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
