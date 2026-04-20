@@ -21,6 +21,7 @@ Leetcode Problems
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -254,6 +255,7 @@ Leetcode Problems
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0860-lemonade-change/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
