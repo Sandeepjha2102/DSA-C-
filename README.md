@@ -222,6 +222,7 @@ Leetcode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Design
@@ -244,6 +245,7 @@ Leetcode Problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
