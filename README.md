@@ -7,6 +7,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0039-combination-sum/) | Medium |
@@ -70,6 +71,7 @@ Leetcode Problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0056-merge-intervals/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
@@ -260,6 +262,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
