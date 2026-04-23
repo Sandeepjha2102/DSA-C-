@@ -6,6 +6,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0040-combination-sum-ii/) | Medium |
@@ -257,6 +258,7 @@ Leetcode Problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
