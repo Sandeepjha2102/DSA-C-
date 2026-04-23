@@ -17,6 +17,7 @@ Leetcode Problems
 | [0057-insert-interval](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0057-insert-interval/) | Medium |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0135-candy/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0213-house-robber-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0213-house-robber-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
@@ -247,6 +248,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -256,6 +258,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
