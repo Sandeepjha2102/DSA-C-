@@ -99,6 +99,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@ Leetcode Problems
 | [0242-valid-anagram](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
