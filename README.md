@@ -19,6 +19,7 @@ Leetcode Problems
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0057-insert-interval/) | Medium |
+| [0078-subsets](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0135-candy/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -37,11 +38,13 @@ Leetcode Problems
 | [0040-combination-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0113-path-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
