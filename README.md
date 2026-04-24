@@ -59,6 +59,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
+| [0242-valid-anagram](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0056-merge-intervals/) | Medium |
+| [0242-valid-anagram](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
 | [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
@@ -233,6 +235,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Design
