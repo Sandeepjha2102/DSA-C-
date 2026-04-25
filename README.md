@@ -19,6 +19,7 @@ Leetcode Problems
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0135-candy/) | Hard |
@@ -70,6 +71,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
+| [0063-unique-paths-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0063-unique-paths-ii/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ Leetcode Problems
 | [0045-jump-game-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0198-house-robber/) | Medium |
