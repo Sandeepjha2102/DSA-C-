@@ -51,6 +51,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -225,6 +226,7 @@ Leetcode Problems
 | [0042-trapping-rain-water](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0198-house-robber/) | Medium |
@@ -310,4 +312,8 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0042-trapping-rain-water/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
