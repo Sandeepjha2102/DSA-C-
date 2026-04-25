@@ -1,20 +1,20 @@
 class Solution {
 public:
-
-     int solve(int i, int j, vector<vector<int>>& matrix){
-        if(i==0 && j == 0) return 1;
-        if(i < 0 || j < 0) return 0;
-
-        if(matrix[i][j] != -1) return matrix[i][j];
-
-        int left = solve(i,j-1, matrix);
-        int right = solve(i-1,j, matrix);
-
-        return matrix[i][j] = left+right;
-    }
-
-    int uniquePaths(int m, int n) {
-        vector<vector<int>> matrix(m, vector<int>(n,-1));  
-        return solve(m-1, n-1, matrix);
+int uniquePaths(int m, int n) {
+    
+        vector<vector<int>> matrix(m, vector<int>(n,0));  
+        
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(i == 0 && j == 0) {
+                    matrix[i][j] = 1; 
+                    continue;    }
+                int left = 0, right = 0;
+                if(j > 0) left = matrix[i][j-1];
+                if(i > 0) right = matrix[i-1][j];
+                matrix[i][j] = left + right;
+            }
+        }
+        return matrix[m-1][n-1];
     }
 };
