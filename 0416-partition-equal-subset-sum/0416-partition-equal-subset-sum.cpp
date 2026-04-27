@@ -31,7 +31,8 @@ public:
         for(int i = 0; i < n; i++){
             dp[i][0] = true;
         }
-        dp[0][nums[0]] = true;
+        if(nums[0] <= sum/2)
+            dp[0][nums[0]] = true;
 
         //nested loop
         for(int i = 1; i < n; i++){
