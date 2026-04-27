@@ -31,6 +31,7 @@ Leetcode Problems
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0518-coin-change-ii/) | Medium |
 | [0860-lemonade-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -244,6 +245,7 @@ Leetcode Problems
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
