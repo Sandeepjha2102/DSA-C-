@@ -245,6 +245,7 @@ Leetcode Problems
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -259,6 +260,7 @@ Leetcode Problems
 | [0125-valid-palindrome](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0516-longest-palindromic-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2833-furthest-point-from-origin/) | Easy |
