@@ -15,6 +15,7 @@ Leetcode Problems
 | [0042-trapping-rain-water](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0056-merge-intervals/) | Medium |
@@ -71,6 +72,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
+| [0049-group-anagrams](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Matrix
@@ -87,6 +89,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -260,6 +263,7 @@ Leetcode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
