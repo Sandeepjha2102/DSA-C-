@@ -6,7 +6,6 @@ public:
 
         for(int i = 1; i < prices.size(); i++){
             profit = max(prices[i] - minVal, profit);
-            cout << profit << endl;
             minVal = min(minVal, prices[i]);
         }
         return profit;
