@@ -247,6 +247,7 @@ Leetcode Problems
 | [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +260,7 @@ Leetcode Problems
 | [0242-valid-anagram](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Design
 | Problem Name | Difficulty |
