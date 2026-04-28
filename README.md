@@ -22,6 +22,7 @@ Leetcode Problems
 | [0063-unique-paths-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0090-subsets-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0135-candy/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0198-house-robber/) | Medium |
@@ -237,6 +238,7 @@ Leetcode Problems
 | [0062-unique-paths](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0213-house-robber-ii/) | Medium |
