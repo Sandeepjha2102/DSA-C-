@@ -36,6 +36,7 @@ Leetcode Problems
 | [0518-coin-change-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0518-coin-change-ii/) | Medium |
 | [0860-lemonade-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
+| [0994-rotting-oranges](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0994-rotting-oranges/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -82,6 +83,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0063-unique-paths-ii/) | Medium |
+| [0994-rotting-oranges](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0994-rotting-oranges/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Divide and Conquer
@@ -162,6 +164,7 @@ Leetcode Problems
 | [0322-coin-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0322-coin-change/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0994-rotting-oranges/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
