@@ -29,6 +29,7 @@ Leetcode Problems
 | [0198-house-robber](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0322-coin-change/) | Medium |
+| [0396-rotate-function](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
@@ -63,6 +64,7 @@ Leetcode Problems
 | [0060-permutation-sequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0070-climbing-stairs/) | Easy |
+| [0396-rotate-function](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Recursion
@@ -256,6 +258,7 @@ Leetcode Problems
 | [0198-house-robber](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0322-coin-change/) | Medium |
+| [0396-rotate-function](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0494-target-sum/) | Medium |
