@@ -66,6 +66,7 @@ Leetcode Problems
 | [0070-climbing-stairs](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0070-climbing-stairs/) | Easy |
 | [0396-rotate-function](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0509-fibonacci-number/) | Easy |
+| [0788-rotated-digits](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -266,6 +267,7 @@ Leetcode Problems
 | [0516-longest-palindromic-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0788-rotated-digits](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0788-rotated-digits/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Linked List
