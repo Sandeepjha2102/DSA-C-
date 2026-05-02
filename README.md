@@ -27,6 +27,7 @@ Leetcode Problems
 | [0135-candy](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0135-candy/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0396-rotate-function/) | Medium |
@@ -86,6 +87,7 @@ Leetcode Problems
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0063-unique-paths-ii/) | Medium |
+| [0200-number-of-islands](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0994-rotting-oranges/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -142,6 +144,7 @@ Leetcode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -163,6 +166,7 @@ Leetcode Problems
 | [0112-path-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0322-coin-change/) | Medium |
@@ -363,6 +367,7 @@ Leetcode Problems
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
