@@ -290,6 +290,7 @@ Leetcode Problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0796-rotate-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0796-rotate-string/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -375,4 +376,8 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0547-number-of-provinces/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
