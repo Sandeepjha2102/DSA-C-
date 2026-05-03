@@ -322,6 +322,7 @@ Leetcode Problems
 | [1729-find-followers-count](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
