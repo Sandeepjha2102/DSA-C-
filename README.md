@@ -9,6 +9,7 @@ Leetcode Problems
 | [0011-container-with-most-water](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
@@ -328,6 +329,7 @@ Leetcode Problems
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0098-validate-binary-search-tree/) | Medium |
