@@ -1,16 +1,12 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        if(s.size() != goal.size()){
-            return false;
+        if(s.size() != goal.size()) return false;
+        string s2 = s + s;
+        cout << s2;
+        if(s2.find(goal) != string::npos){
+            return true;
         }
-        string concat = s+s;
-
-        int ind = concat.find(goal);
-        if(ind == -1){
-            return false;
-        }
-        return true;
+        return false;
     }
-
 };
