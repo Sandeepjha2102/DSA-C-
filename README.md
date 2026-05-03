@@ -9,6 +9,7 @@ Leetcode Problems
 | [0011-container-with-most-water](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0040-combination-sum-ii/) | Medium |
@@ -322,6 +323,7 @@ Leetcode Problems
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
