@@ -18,6 +18,7 @@ Leetcode Problems
 | [0042-trapping-rain-water](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0055-jump-game/) | Medium |
@@ -66,6 +67,7 @@ Leetcode Problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0070-climbing-stairs/) | Easy |
@@ -90,6 +92,7 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0733-flood-fill/) | Easy |
