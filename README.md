@@ -153,6 +153,7 @@ Leetcode Problems
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -176,6 +177,7 @@ Leetcode Problems
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0322-coin-change/) | Medium |
@@ -389,9 +391,14 @@ Leetcode Problems
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0547-number-of-provinces/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0796-rotate-string/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
