@@ -291,6 +291,7 @@ Leetcode Problems
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## String
@@ -357,6 +358,7 @@ Leetcode Problems
 | [0015-3sum](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0455-assign-cookies](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0455-assign-cookies/) | Easy |
