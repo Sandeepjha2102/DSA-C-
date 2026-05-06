@@ -163,6 +163,7 @@ Leetcode Problems
 | [0543-diameter-of-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -185,6 +186,7 @@ Leetcode Problems
 | [0322-coin-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0994-rotting-oranges/) | Medium |
@@ -392,12 +394,14 @@ Leetcode Problems
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0785-is-graph-bipartite/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
