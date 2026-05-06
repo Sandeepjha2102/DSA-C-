@@ -1,22 +1,14 @@
 class Solution {
 public:
-    bool check(int start, vector<vector<int>>& graph, vector<int> &color){
-        queue<int> q;
-        q.push(start);
-        color[start] = 0;
-
-        while(!q.empty()){  
-            int node = q.front();
-            q.pop();
-
-            for(auto it : graph[node]){
-                if(color[it] == -1){
-                    color[it] = !color[node];
-                    q.push(it);
-                }
-                else if(color[it] == color[node]){
-                    return false;
-                }
+    bool check(int start, int col, vector<vector<int>>& graph, vector<int> &color){
+        color[start] = col;
+        
+        for(auto it:graph[start]){
+            if(color[it] == -1){
+                if(check(it, !col, graph, color) == false) return false;
+            } 
+            else if(color[it] == col){
+                return false;
             }
         }
         return true;
@@ -30,7 +22,7 @@ public:
         //for component graphs
         for(int i = 0; i < V; i++){
             if(color[i] == -1){
-                if(check(i, graph, color) == false) return false;
+                if(check(i, 0, graph, color) == false) return false;
             }
         }
         return true;
