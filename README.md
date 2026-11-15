@@ -44,6 +44,7 @@ Leetcode Problems
 | [0860-lemonade-change](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0994-rotting-oranges/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sandeepjha2102/DSA-C-/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -428,4 +429,8 @@ Leetcode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sandeepjha2102/DSA-C-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sandeepjha2102/DSA-C-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
