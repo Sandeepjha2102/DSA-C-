@@ -69,6 +69,7 @@ Leetcode Problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Sandeepjha2102/DSA-C-/tree/main/0062-unique-paths/) | Medium |
